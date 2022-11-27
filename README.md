@@ -1,4 +1,4 @@
-# autonomy_client
+# wallet_connect
 
 A new Flutter project.
 

@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "autonomy_client" "\0"
+            VALUE "FileDescription", "wallet_connect" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "autonomy_client" "\0"
+            VALUE "InternalName", "wallet_connect" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "autonomy_client.exe" "\0"
-            VALUE "ProductName", "autonomy_client" "\0"
+            VALUE "OriginalFilename", "wallet_connect.exe" "\0"
+            VALUE "ProductName", "wallet_connect" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

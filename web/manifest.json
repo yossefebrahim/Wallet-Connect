@@ -1,6 +1,6 @@
 {
-    "name": "autonomy_client",
-    "short_name": "autonomy_client",
+    "name": "wallet_connect",
+    "short_name": "wallet_connect",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
